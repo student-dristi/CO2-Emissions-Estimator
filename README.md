@@ -24,6 +24,8 @@ A machine learning project that estimates the CO₂ emissions of vehicles based 
 - NumPy
 - scikit-learn
 - Matplotlib
+- streamlit
+- joblib
 
 ---
 
